@@ -1,0 +1,80 @@
+[
+  {
+  "name": "University Basics",
+  "image": "outfit_01.jpg",
+  "weather": ["Mild", "Hot"],
+  "occasions": ["University"]
+},
+{
+  "name": "Mild Casual Basics",
+  "image": "outfit_01.jpg",
+  "weather": ["Mild"],
+  "occasions": ["Casual"]
+},
+  {
+    "name": "Cold University Outfit",
+    "image": "outfit_02.jpg",
+    "weather": ["Cold"],
+    "occasions": ["University"]
+  },
+  {
+    "name": "Rainy University Outfit",
+    "image": "outfit_03.jpg",
+    "weather": ["Rainy"],
+    "occasions": ["University"]
+  },
+  {
+    "name": "Cold Casual Outfit",
+    "image": "outfit_04.jpg",
+    "weather": ["Cold"],
+    "occasions": ["Casual"]
+  },
+  {
+    "name": "Hot Casual Outfit",
+    "image": "outfit_05.jpg",
+    "weather": ["Hot"],
+    "occasions": ["Casual"]
+  },
+  {
+    "name": "Warm Work Outfit",
+    "image": "outfit_06.jpg",
+    "weather": ["Hot", "Mild"],
+    "occasions": ["Work"]
+  },
+  {
+    "name": "Cold Work Outfit",
+    "image": "outfit_07.jpg",
+    "weather": ["Cold"],
+    "occasions": ["Work"]
+  },
+  {
+    "name": "Rainy Work Outfit",
+    "image": "outfit_08.jpg",
+    "weather": ["Rainy"],
+    "occasions": ["Work"]
+  },
+  {
+    "name": "Hot Night Out",
+    "image": "outfit_09.jpg",
+    "weather": ["Hot"],
+    "occasions": ["Night out"]
+  },
+  {
+    "name": "Mild Night Out",
+    "image": "outfit_10.jpg",
+    "weather": ["Mild"],
+    "occasions": ["Night out"]
+  },
+  {
+    "name": "Cold Night Out",
+    "image": "outfit_11.jpg",
+    "weather": ["Cold"],
+    "occasions": ["Night out"]
+  },
+  {
+    "name": "Rainy Night Out",
+    "image": "outfit_12.jpg",
+    "weather": ["Rainy"],
+    "occasions": ["Night out"]
+  }
+]

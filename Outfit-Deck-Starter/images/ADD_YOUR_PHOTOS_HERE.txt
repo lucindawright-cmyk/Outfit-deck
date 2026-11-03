@@ -1,0 +1,18 @@
+Add your outfit photos to this folder.
+
+Name them exactly:
+
+outfit_01.jpg
+outfit_02.jpg
+outfit_03.jpg
+outfit_04.jpg
+outfit_05.jpg
+outfit_06.jpg
+outfit_07.jpg
+outfit_08.jpg
+outfit_09.jpg
+outfit_10.jpg
+outfit_11.jpg
+outfit_12.jpg
+
+Portrait photos will look best, but the app will resize any photo automatically.
